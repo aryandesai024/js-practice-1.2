@@ -1,0 +1,3 @@
+Javascript #1.2 - Changing background with different buttons
+
+In this project I tried changing background color with different buttons using javascript.
